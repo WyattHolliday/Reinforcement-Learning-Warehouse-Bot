@@ -9,6 +9,6 @@ Markov Decision Process and non-agent functions designed collectivly
 
 Value Itteration by Peter Luey
 
-Every Step Monte Carlo by Wyatt Holliday
+Every Visit Monte Carlo by Wyatt Holliday
 
 Q-Learning by Sasha Rosenthal
